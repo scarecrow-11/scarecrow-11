@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Hafizur Milon</h1>
-<h3 align="center">A passionate Full Stack Engineer from Dhaka, Bangladesh with a strong enthusiasm for DevOps</h3>
+<h3 align="center">A passionate Full Stack Engineer with a strong enthusiasm for DevOps</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
